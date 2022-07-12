@@ -60,4 +60,6 @@ d_cpy2 = d.copy() # ó d_cpy2 = dict(d)
 # pone los campos que no hay en d1 pero sí en d2
 
 # Mutable:
+# accediendo a la key
 
+# se puede usar una tupla como key pero no una lista
